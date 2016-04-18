@@ -24,7 +24,7 @@ test_requirements = [
 
 setup(
     name='witty',
-    version='0.1.0',
+    version='0.1.1',
     description="witty is witty.",
     long_description=readme + '\n\n' + history,
     author="Daniel Margala",
